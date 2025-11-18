@@ -1,3 +1,16 @@
+<h1 align="center">Hi, I'm Ivan Danasuta 👋</h1>
+
+<p align="center">
+  <b>Backend Developer (PHP • Node.js)</b><br>
+  Passionate about building scalable APIs, clean architecture, and efficient backend systems.
+</p>
+
+## 🚀 About Me
+- 🧑‍💻 Backend Developer with strong experience in **PHP (Laravel, Lumen)**  
+- ⚡ Familiar with **Node.js (Express, Sequelize)**  
+- 🗄️ Experienced with relational databases (**MySQL, PostgreSQL**)  
+- ☁️ Comfortable with **AWS S3**, API integrations, and microservices  
+- 💡 Love learning new technologies & solving backend challenges  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yohanes_van) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivandanasuta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivandanasuta4@gmail.com) 
