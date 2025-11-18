@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🧑‍💻 Backend Developer with strong experience in **PHP (Laravel, Lumen)**  
 - ⚡ Familiar with **Node.js (Express, Sequelize)**  
-- 🗄️ Experienced with relational databases (**MySQL, PostgreSQL**)  
+- 🗄️ Experienced with relational databases (**MySQL**)  
 - ☁️ Comfortable with **AWS S3**, API integrations, and microservices  
 - 💡 Love learning new technologies & solving backend challenges  
 
