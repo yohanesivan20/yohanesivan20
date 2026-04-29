@@ -48,19 +48,6 @@
 
 ---
 
-## 📌 Selected Work / Highlights
-
-- **User Management API**
-  - Built scalable REST API using Node.js & MySQL  
-  - Implemented authentication with JWT  
-  - Optimized queries for performance  
-
-- **Survey System Backend**
-  - Designed relational database structure  
-  - Implemented transaction-safe operations  
-  - Handled large dataset processing  
-
----
 
 ## 🌐 Connect
 - LinkedIn: https://linkedin.com/in/ivandanasuta  
