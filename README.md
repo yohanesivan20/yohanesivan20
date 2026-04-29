@@ -49,7 +49,6 @@
 ---
 
 ## 📌 Selected Work / Highlights
-> *(Isi nanti dengan project kamu, ini contoh formatnya)*
 
 - **User Management API**
   - Built scalable REST API using Node.js & MySQL  
@@ -60,11 +59,6 @@
   - Designed relational database structure  
   - Implemented transaction-safe operations  
   - Handled large dataset processing  
-
----
-
-## 📊 GitHub Stats
-![](https://github-contributor-stats.vercel.app/api?username=yohanesivan20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
