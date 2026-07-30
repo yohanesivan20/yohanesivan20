@@ -52,4 +52,5 @@
 ## 🌐 Connect
 - LinkedIn: https://linkedin.com/in/ivandanasuta  
 - Instagram: https://instagram.com/yohanes_van  
-- Email: ivandanasuta4@gmail.com  
+- Email: ivandanasuta4@gmail.com
+- Website: portfolio-van-v2.vercel.app
